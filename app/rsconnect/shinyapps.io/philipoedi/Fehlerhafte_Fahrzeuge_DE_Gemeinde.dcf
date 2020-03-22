@@ -1,0 +1,12 @@
+name: Fehlerhafte_Fahrzeuge_DE_Gemeinde
+title: Fehlerhafte_Fahrzeuge_DE_Gemeinde
+username:
+account: philipoedi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1976805
+bundleId: 2907918
+url: https://philipoedi.shinyapps.io/Fehlerhafte_Fahrzeuge_DE_Gemeinde/
+when: 1584876676.85331
+asMultiple: FALSE
+asStatic: FALSE
